@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AOTDll
+  m_EditorClassIdentifier: 
+  m_GroupName: AOTDll
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 25aa3739c89842a448aa21e2a038cf9a
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4524224689c81c743bc5ef16209bcd1f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fc4126bb37afcf44a84d5d821bd68c9a, type: 2}
+    - {fileID: 11400000, guid: c12dd0aac02497d48b6769f2cadaa7c4, type: 2}
