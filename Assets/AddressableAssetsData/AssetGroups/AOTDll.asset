@@ -16,7 +16,43 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 25aa3739c89842a448aa21e2a038cf9a
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 408af3f62ccf4da498c9c88947c4dd78
+    m_Address: Assets/AddressablesResource/AOT/UniTask.Addressables.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aot
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 739a9e16eab3dad4fa05af9eca9cd05a
+    m_Address: Assets/AddressablesResource/AOT/System.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aot
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fa2627b0492cd344bf1f2013be0a359
+    m_Address: Assets/AddressablesResource/AOT/mscorlib.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aot
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c70b6ddb0a408eb45b09ccaac5f3932e
+    m_Address: Assets/AddressablesResource/AOT/UniTask.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aot
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca92e03dee42ffd4992b449e433f6835
+    m_Address: Assets/AddressablesResource/AOT/Unity.Addressables.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aot
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff6ad3f8b56a3544cb13fc2e88b1b53c
+    m_Address: Assets/AddressablesResource/AOT/System.Core.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aot
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4524224689c81c743bc5ef16209bcd1f, type: 2}
   m_SchemaSet:

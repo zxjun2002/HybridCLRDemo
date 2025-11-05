@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: b35b948d3f165e44f80412fa140469c3
   m_currentHash:
     serializedVersion: 2
-    Hash: e9acadabb1510ed86cab38cfe4db7bf9
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -35,20 +35,20 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: 921e9cc8b395bc040bd972e8541b761d
   m_RemoteCatalogLoadPath:
-    m_Id: 
-  m_ContentStateBuildPathProfileVariableName: 
+    m_Id: b33fa9150d66f654eac41b066a160d24
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
   m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
   m_GroupAssets:
   - {fileID: 11400000, guid: 5ef2dd50e257a054bae6aef30bce1042, type: 2}
+  - {fileID: 11400000, guid: da71032f1fedf2d4ea6e4a3bf24b17ee, type: 2}
   - {fileID: 11400000, guid: 6f85ced42cf1fae4ba21f934480a6bc0, type: 2}
   - {fileID: 11400000, guid: 87ec052ff14b9c94091a10283ed34747, type: 2}
   - {fileID: 11400000, guid: ae7cddf0ae288cd418ae6e750b41fc3d, type: 2}
-  - {fileID: 11400000, guid: 6079238307863014e97ae97db7cbb071, type: 2}
   - {fileID: 11400000, guid: d9eb25061c037814983143c1d0c3d458, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
@@ -70,7 +70,7 @@ MonoBehaviour:
       - m_Id: 921e9cc8b395bc040bd972e8541b761d
         m_Value: ServerData/[BuildTarget]
       - m_Id: b33fa9150d66f654eac41b066a160d24
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://gitee.com/zxjun2002/asset-bundle/raw/master/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 3919018bf4fd15246af23916bc46ddd0
       m_Name: BuildTarget
@@ -111,6 +111,7 @@ MonoBehaviour:
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}
-    m_NextInstanceId: 0
-    m_RegisteredServiceTypeRefs: []
+    m_NextInstanceId: 2
+    m_RegisteredServiceTypeRefs:
+    - UnityEditor.AddressableAssets.HostingServices.HttpHostingService, Unity.Addressables.Editor
     m_PingTimeoutInMilliseconds: 5000

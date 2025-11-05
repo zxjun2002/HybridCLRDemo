@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38373106c03708045a7a3b496ec18096, type: 3}
   m_Name: HotUpdateBytesSettings
   m_EditorClassIdentifier: 
-  hotWatchDir: Assets/Addressables/HotUpdate
-  aotWatchDir: Assets/Addressables/AOTMetadata
-  hotGroup: {fileID: 0}
-  aotGroup: {fileID: 0}
+  hotWatchFolder: {fileID: 102900000, guid: 82094dd9666cc4b46a4ff9a1da3d758b, type: 3}
+  aotWatchFolder: {fileID: 102900000, guid: 794ca35a074eff44c806e3586a301e79, type: 3}
+  hotGroup: {fileID: 11400000, guid: d9eb25061c037814983143c1d0c3d458, type: 2}
+  aotGroup: {fileID: 11400000, guid: 5ef2dd50e257a054bae6aef30bce1042, type: 2}
   hotUpdateLabel:
-    m_LabelString: 
+    m_LabelString: hotfix
   aotMetadataLabel:
-    m_LabelString: 
+    m_LabelString: aot

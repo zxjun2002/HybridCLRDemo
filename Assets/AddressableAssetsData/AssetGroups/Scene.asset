@@ -10,21 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Prefabs
+  m_Name: Scene
   m_EditorClassIdentifier: 
-  m_GroupName: Prefabs
+  m_GroupName: Scene
   m_Data:
     m_SerializedData: []
-  m_GUID: a963c782db68cec4bb8ed649a0703d0b
+  m_GUID: 72c2c3fe698710b48a64c87b540be2de
   m_SerializeEntries:
-  - m_GUID: d0a3423988ddd1a4c958aaa6c23dede7
-    m_Address: Assets/Arts/Prefabs/Cube.prefab
+  - m_GUID: 99c551e49e171a54c9f35f0120126de0
+    m_Address: Assets/Scenes/HotUpdateScene.unity
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - scene
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4524224689c81c743bc5ef16209bcd1f, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: c9da08856dd6fc0469e73a9072e88a65, type: 2}
-    - {fileID: 11400000, guid: 4f2ebe799d08b114690f579302d0c45c, type: 2}
+    - {fileID: 11400000, guid: 9521768df919b7349ba2219d501edd23, type: 2}
+    - {fileID: 11400000, guid: c6326c40d59209047a2747bbf082c26d, type: 2}
