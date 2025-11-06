@@ -22,4 +22,10 @@
     <type fullname="System.RuntimeFieldHandle" preserve="all" />
     <type fullname="System.ValueType" preserve="all" />
   </assembly>
+  <assembly fullname="UnityEngine.InputLegacyModule">
+     <type fullname="UnityEngine.Input" preserve="all"/>
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule">
+     <type fullname="UnityEngine.Input" preserve="all"/>
+  </assembly>
 </linker>
