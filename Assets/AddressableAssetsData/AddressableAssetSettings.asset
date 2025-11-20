@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: b35b948d3f165e44f80412fa140469c3
   m_currentHash:
     serializedVersion: 2
-    Hash: 28c03019bc8fcf4c62261b5b9af70197
+    Hash: fb00966fbfcb0e5ecb04aabde57da949
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -90,7 +90,7 @@ MonoBehaviour:
     m_ProfileVersion: 1
   m_LabelTable:
     m_LabelNames:
-    - default
+    - prefab
     - aot
     - hotfix
     - scene

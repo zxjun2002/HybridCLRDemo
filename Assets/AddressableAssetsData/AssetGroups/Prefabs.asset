@@ -20,7 +20,8 @@ MonoBehaviour:
   - m_GUID: d0a3423988ddd1a4c958aaa6c23dede7
     m_Address: Assets/Arts/Prefabs/Cube.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - prefab
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4524224689c81c743bc5ef16209bcd1f, type: 2}

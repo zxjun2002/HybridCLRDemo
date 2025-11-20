@@ -24,7 +24,7 @@ MonoBehaviour:
   externalHotUpdateAssembliyDirs: []
   strippedAOTDllOutputRootDir: HybridCLRData/AssembliesPostIl2CppStrip
   patchAOTAssemblies: []
-  outputLinkFile: HybridCLRGenerate/link.xml
-  outputAOTGenericReferenceFile: HybridCLRGenerate/AOTGenericReferences.cs
+  outputLinkFile: Script/Main/HybridCLRGenerate/link.xml
+  outputAOTGenericReferenceFile: Script/Main/HybridCLRGenerate/AOTGenericReferences.cs
   maxGenericReferenceIteration: 10
   maxMethodBridgeGenericIteration: 10
